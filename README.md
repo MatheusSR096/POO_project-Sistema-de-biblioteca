@@ -1,5 +1,7 @@
 # Sistema de Biblioteca
 
+![imagem do sistema](sistema_bibliote_img.png)
+
 ## Descrição
 Este é um sistema de gerenciamento de biblioteca desenvolvido em Python com interface gráfica Tkinter e banco de dados MySQL. O sistema permite o cadastro e gerenciamento de autores, livros, usuários e empréstimos, além de fornecer relatórios sobre o acervo.
 
